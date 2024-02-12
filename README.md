@@ -5,11 +5,13 @@ Crud API
 GET - POST - PUT - PATCH (like dislike) - DELETE
 
 ## Installation
-node-v20.11.0-x64:
-  -"dotenv": "^16.4.1"
-  -"express": "^4.18.2",
-  -"mongoose": "^8.1.1",
-  -"nodemon": "^3.0.3"
+
+| NodJS | node-v20.11.0-x64: |
+| --- | --- |
+| dotenv | 16.4.1 |
+| express | 4.18.2 |
+| mongoose | 8.1.1 |
+| nodemon | 3.0.3 |
 
 ## Utilisation
 
